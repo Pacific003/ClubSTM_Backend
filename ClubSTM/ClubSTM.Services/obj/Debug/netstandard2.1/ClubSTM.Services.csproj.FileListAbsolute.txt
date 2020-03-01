@@ -1,0 +1,17 @@
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/bin/Debug/netstandard2.1/ClubSTM.Services.deps.json
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/bin/Debug/netstandard2.1/ClubSTM.Services.dll
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/bin/Debug/netstandard2.1/ClubSTM.Services.pdb
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/bin/Debug/netstandard2.1/ClubSTM.Data.dll
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/bin/Debug/netstandard2.1/ClubSTM.Repository.dll
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/bin/Debug/netstandard2.1/ClubSTM.Utility.dll
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/bin/Debug/netstandard2.1/ClubSTM.ViewModel.dll
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/bin/Debug/netstandard2.1/ClubSTM.Repository.pdb
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/bin/Debug/netstandard2.1/ClubSTM.Utility.pdb
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/bin/Debug/netstandard2.1/ClubSTM.ViewModel.pdb
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/bin/Debug/netstandard2.1/ClubSTM.Data.pdb
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/obj/Debug/netstandard2.1/ClubSTM.Services.csprojAssemblyReference.cache
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/obj/Debug/netstandard2.1/ClubSTM.Services.AssemblyInfoInputs.cache
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/obj/Debug/netstandard2.1/ClubSTM.Services.AssemblyInfo.cs
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/obj/Debug/netstandard2.1/ClubSTM.Services.csproj.CopyComplete
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/obj/Debug/netstandard2.1/ClubSTM.Services.dll
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Services/obj/Debug/netstandard2.1/ClubSTM.Services.pdb

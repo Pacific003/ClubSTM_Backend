@@ -1,0 +1,13 @@
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Data/bin/Debug/netstandard2.1/ClubSTM.Data.deps.json
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Data/bin/Debug/netstandard2.1/ClubSTM.Data.dll
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Data/bin/Debug/netstandard2.1/ClubSTM.Data.pdb
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Data/bin/Debug/netstandard2.1/ClubSTM.Utility.dll
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Data/bin/Debug/netstandard2.1/ClubSTM.ViewModel.dll
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Data/bin/Debug/netstandard2.1/ClubSTM.Utility.pdb
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Data/bin/Debug/netstandard2.1/ClubSTM.ViewModel.pdb
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Data/obj/Debug/netstandard2.1/ClubSTM.Data.csprojAssemblyReference.cache
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Data/obj/Debug/netstandard2.1/ClubSTM.Data.AssemblyInfoInputs.cache
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Data/obj/Debug/netstandard2.1/ClubSTM.Data.AssemblyInfo.cs
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Data/obj/Debug/netstandard2.1/ClubSTM.Data.csproj.CopyComplete
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Data/obj/Debug/netstandard2.1/ClubSTM.Data.dll
+/Users/prashantgautam/PV_Project/ClubSTM_Backend/ClubSTM/ClubSTM.Data/obj/Debug/netstandard2.1/ClubSTM.Data.pdb

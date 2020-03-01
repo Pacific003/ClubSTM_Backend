@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "ClubSTM.Services/1.0.0": {
+        "dependencies": {
+          "ClubSTM.Repository": "1.0.0",
+          "ClubSTM.Utility": "1.0.0",
+          "ClubSTM.ViewModel": "1.0.0"
+        },
+        "runtime": {
+          "ClubSTM.Services.dll": {}
+        }
+      },
+      "ClubSTM.Data/1.0.0": {
+        "dependencies": {
+          "ClubSTM.Utility": "1.0.0",
+          "ClubSTM.ViewModel": "1.0.0"
+        },
+        "runtime": {
+          "ClubSTM.Data.dll": {}
+        }
+      },
+      "ClubSTM.Repository/1.0.0": {
+        "dependencies": {
+          "ClubSTM.Data": "1.0.0",
+          "ClubSTM.Utility": "1.0.0",
+          "ClubSTM.ViewModel": "1.0.0"
+        },
+        "runtime": {
+          "ClubSTM.Repository.dll": {}
+        }
+      },
+      "ClubSTM.Utility/1.0.0": {
+        "runtime": {
+          "ClubSTM.Utility.dll": {}
+        }
+      },
+      "ClubSTM.ViewModel/1.0.0": {
+        "runtime": {
+          "ClubSTM.ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClubSTM.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClubSTM.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClubSTM.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClubSTM.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClubSTM.ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

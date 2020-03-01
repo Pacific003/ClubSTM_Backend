@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClubSTM.Data\ClubSTM.Data.csproj" />
+    <ProjectReference Include="..\ClubSTM.Utility\ClubSTM.Utility.csproj" />
+    <ProjectReference Include="..\ClubSTM.ViewModel\ClubSTM.ViewModel.csproj" />
+  </ItemGroup>
+</Project>

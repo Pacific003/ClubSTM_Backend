@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{888CFEFE-CA16-418A-ABBD-F948CE35F644}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClubSTM.Repository FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClubSTM.Services/Class1.cs">
+    <Files>
+      <File FileName="ClubSTM.Data/Class1.cs" Line="1" Column="1" />
+      <File FileName="ClubSTM.Repository/Class1.cs" />
+      <File FileName="ClubSTM.Utility/Class1.cs" />
+      <File FileName="ClubSTM.ViewModel/Class1.cs" Line="1" Column="1" />
+      <File FileName="ClubSTM.Services/Class1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClubSTM" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ClubSTM.Utility FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ClubSTM.Data FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ClubSTM.Services FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ClubSTM.Api FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.ClubSTM.ViewModel FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
